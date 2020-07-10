@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Tim. I clean and analyze data, and like to build tools to make that easier. 
-I work [Hudl](http://hudl.com/) helping coaches and athletes win. 
+I work at [Hudl](http://hudl.com/) helping coaches and athletes win. 
 I'm at home programming in R, but I also really enjoy Python. 
 
 - 🔭 I’m currently working on [feat](https://github.com/tmastny/feat), a Python package to help with feature importances in sklearn. 
