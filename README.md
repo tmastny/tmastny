@@ -9,5 +9,5 @@ I'm at home programming in R, but I also really enjoy Python.
 - 🌱 I’m currently learning the IPython API and [auto-completion](https://github.com/machow/siuba/pull/249) for [siuba](https://github.com/machow/siuba).
 - 📖 I recently learned Hugo and updated the layout of my [blog](https://timmastny.rbind.io/).
 - 💬 Ask me about AWS and R.
-- 📫 How to reach me: @timmastny on Twitter, https://timmastny.rbind.io/about/
+- 📫 How to reach me: [@timmastny](https://twitter.com/timmastny) on Twitter, https://timmastny.rbind.io/about/
 - 😄 Pronouns: he/him
