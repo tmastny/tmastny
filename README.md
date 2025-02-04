@@ -8,7 +8,7 @@ I like writing about computers on the internet. Check out some of my latest work
 
 
 Follow my work at:
-- [timmastny.com](timmastny.com)
-- [x.com/timmastny](x.com/timmastny)
-- [bsky.app/profile/timmastny.bsky.social](bsky.app/profile/timmastny.bsky.social)
+- [timmastny.com](https://timmastny.com)
+- [x.com/timmastny](https://x.com/timmastny)
+- [bsky.app/profile/timmastny.bsky.social](https://bsky.app/profile/timmastny.bsky.social)
 
