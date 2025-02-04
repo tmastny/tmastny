@@ -1,13 +1,14 @@
-### Hi there 👋
+### Hi
 
-My name is Tim. I clean and analyze data, and like to build tools to make that easier. 
-I work at [Wave](https://www.wave.com/en/).
-I'm at home programming in R, but I also really enjoy Python. 
+My name is Tim. and I'm a software engineer at [Wave](https://www.wave.com/en/).
+I like writing about computers on the internet. Check out some of my latest work:
+- [Visualizing CPU Pipelining](https://timmastny.com/blog/visualizing-cpu-pipelining/)
+- [A* Tricks for Videogame Path Finding](https://timmastny.com/blog/a-star-tricks-for-videogame-path-finding/). [Hacker News discussion.](https://news.ycombinator.com/item?id=38833658)
+- [Web Demo of Replicated Growth Array](https://timmastny.com/rga/)
 
-- 🔭 I’m currently working on [feat](https://github.com/tmastny/feat), a Python package to help with feature importances in sklearn. 
-- ⏭️ Up next, I'm updating my AWS [sagemaker](https://github.com/tmastny/sagemaker) to make it easy to productionize machine learning models in R.
-- 🌱 I’m currently learning the IPython API and [auto-completion](https://github.com/machow/siuba/pull/249) for [siuba](https://github.com/machow/siuba).
-- 📖 I recently learned Hugo and updated the layout of my [blog](https://timmastny.com/).
-- 💬 Ask me about AWS and R.
-- 📫 How to reach me: [@timmastny](https://twitter.com/timmastny) on Twitter, https://timmastny.com/about/
-- 😄 Pronouns: he/him
+
+Follow my work at:
+- [timmastny.com](timmastny.com)
+- [x.com/timmastny](x.com/timmastny)
+- [bsky.app/profile/timmastny.bsky.social](bsky.app/profile/timmastny.bsky.social)
+
